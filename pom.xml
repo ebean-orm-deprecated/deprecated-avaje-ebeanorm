@@ -10,7 +10,7 @@
   <groupId>org.avaje.ebeanorm</groupId>
   <artifactId>avaje-ebeanorm</artifactId>
   <version>3.1.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
 
   <name>avaje-ebeanorm</name>
   <url>http://www.avaje.org</url>
